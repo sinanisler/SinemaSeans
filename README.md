@@ -1,7 +1,6 @@
-Meteoroloji Genel Müdürlüğü Türkiye İller Havadurumu Kütüphanesi
-
-
 ## Şehirler Sinema Seans Bilgisi
+
+Türkiye şehirler film sinema seans bilgileri
 
 Bir kaç yıl önce ihtiyaçtan ötürü yazdığım ufak bir bot. Kısaca Google.Seanslar gidip okuyup size getiriyor.
 
