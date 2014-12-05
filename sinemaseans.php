@@ -13,6 +13,7 @@ a { display:none }
 <?php
 
 
+
 require_once('simple_html_dom.php'); // html dom için ufak bir kütüphane internette var
 
 
